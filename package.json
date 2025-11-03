@@ -1,0 +1,13 @@
+{
+  "name": "webpack-module-federation-esm-repro",
+  "private": true,
+  "scripts": {
+    "start": "node create-stub-test-pkg-123.js && webpack --mode=production && serve"
+  },
+  "devDependencies": {
+    "serve": "14.2.5",
+    "webpack": "5.102.1",
+    "webpack-cli": "6.0.1"
+  },
+  "dependencies": {}
+}
