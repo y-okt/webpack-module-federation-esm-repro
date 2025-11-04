@@ -21,3 +21,9 @@ Then open the shown URL in a web browser.
 
 - [Resolve module (mjs) incorrectly when using Module Federation Plugin · Issue #16125 · webpack/webpack](https://github.com/webpack/webpack/issues/16125)
 - [fix(sharing): copy buildMeta and buildInfo to ConsumeSharedModule by tzachbon · Pull Request #20054 · webpack/webpack · GitHub](https://github.com/webpack/webpack/pull/20054)
+
+## Test result on my machine
+
+I tested on 2025-11-14 using the commit 14bb6834 and the result was:
+
+<img src="./assets/2025-11-14-14bb6834.png" alt="" width="360" style="border:1px solid black">
