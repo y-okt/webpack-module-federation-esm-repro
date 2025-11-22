@@ -1,4 +1,6 @@
-# webpack-module-federation-esm-repro
+# webpack-module-federation-esm-repro (forked from [naruaway's github](https://github.com/naruaway-sandbox/webpack-module-federation-esm-repro))
+
+This is using module federation v2.
 
 - [Run this repro in browser using StackBlitz](https://stackblitz.com/~/github.com/y-okt/webpack-module-federation-esm-repro)
 
@@ -26,6 +28,5 @@ Then open the shown URL in a web browser.
 
 ## Test result on my machine
 
-I tested on 2025-11-14 using the commit [14bb6834](https://github.com/naruaway-sandbox/webpack-module-federation-esm-repro/commit/14bb6834) and the result was:
-
-<img src="./assets/2025-11-14-14bb6834.png" alt="" width="360" style="border:1px solid black">
+The result is like this.
+<img width="398" height="573" alt="スクリーンショット 2025-11-23 1 10 12" src="https://github.com/user-attachments/assets/d7eb3eed-dcf8-4392-8eef-0ca59091ca61" />
