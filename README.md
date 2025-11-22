@@ -1,6 +1,6 @@
 # webpack-module-federation-esm-repro
 
-- [Run this repro in browser using StackBlitz](https://stackblitz.com/~/github.com/naruaway-sandbox/webpack-module-federation-esm-repro)
+- [Run this repro in browser using StackBlitz](https://stackblitz.com/~/github.com/y-okt/webpack-module-federation-esm-repro)
 
 This is a minimum reproducible example for Webpack module federation behavior regarding pure ESM (`javascript/esm` aka "\*.mjs" )
 
